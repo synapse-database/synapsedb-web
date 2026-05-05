@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>ttt index</Text>
+      <Text>这是SynapseDB超融合数据库网站简介</Text>
     </View>
   );
 }
